@@ -9,7 +9,7 @@
 - [Sandbox - phase4](https://codesandbox.io/s/boring-river-6xw1o)
 
 ### Pull request
-[PR](https://github.com/Razan-am/todo-project/pull/1)
+[PR](https://github.com/Razan-am/todo-project/pull/2)
 
 ### Running the app
 - npm start
