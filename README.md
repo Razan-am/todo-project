@@ -6,10 +6,10 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox - phase1](https://codesandbox.io/s/eloquent-brahmagupta-rfs43)
+- [Sandbox - phase4](https://codesandbox.io/s/boring-river-6xw1o)
 
 ### Pull request
-[PR](https://github.com/Razan-am/todo-app/pull/1)
+[PR](https://github.com/Razan-am/todo-project/pull/1)
 
 ### Running the app
 - npm start
